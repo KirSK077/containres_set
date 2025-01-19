@@ -1,0 +1,27 @@
+{
+  "name": "1_set",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KirSK077/containres_set.git"
+  },
+  "keywords": [
+    "containers",
+    "set"
+  ],
+  "author": "KirSK077",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KirSK077/containres_set/issues"
+  },
+  "homepage": "https://github.com/KirSK077/containres_set#readme",
+  "description": "",
+  "devDependencies": {
+    "webpack": "^5.97.1",
+    "webpack-cli": "^6.0.1"
+  }
+}
